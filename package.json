@@ -1,0 +1,25 @@
+{
+  "name": "revaturecodingchallenge-3-28",
+  "version": "1.0.0",
+  "description": "Coding challenge Revature week 3/28/22",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbaz28/RevatureCodingChallenge-3-28.git"
+  },
+  "author": "Justin Bertrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbaz28/RevatureCodingChallenge-3-28/issues"
+  },
+  "homepage": "https://github.com/jpbaz28/RevatureCodingChallenge-3-28#readme",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/typescript": "^2.0.0"
+  }
+}
